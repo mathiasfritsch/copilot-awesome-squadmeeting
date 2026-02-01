@@ -38,7 +38,8 @@ zB auch Refit
 
 agents/4.1-Beast.agent.md
 sollte man schon alleines des Namens wegen nehmen
-
+lässt sich gpt 4.1 wie claude verhalten, aber schneller
+gpt 4.1 denkt nicht so tief nach und ist darum schneller
 
 skill
 
