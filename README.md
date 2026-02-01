@@ -26,3 +26,6 @@ agents/adr-generator.agent.md
 
 - 
 
+context7.agent.md
+
+
