@@ -6,7 +6,7 @@ In GitHub Copilot (VS Code, CLI, JetBrains), prompt files and skill files standa
 
 | Feature      | Prompt Files                                                               | Skill Files                                                       |
 | ------------ | -------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| Location     | .github/prompts/*.prompt.md or user profile code.visualstudio​             | .github/skills/my-skill/SKILL.md  auch global!!!                      |
+| Location     | .github/prompts/*.prompt.md or user profile code.visualstudio​             | .github/skills/my-skill/SKILL.md  auch global!!!  zB mach svg, lese xls                    |
 | Invocation   | /promptname args in chat YouTube​                                          | Auto by agent or @skill (on-demand load) github​                  |
 | Structure    | YAML metadata + Markdown prompt code.visualstudio​                         | YAML frontmatter + Markdown + scripts/examples code.visualstudio​ |
 | Tools/MCP    | Can reference MCP tools (tools: ["azure-devops-mcp/*"]) code.visualstudio​ | Full dir support: scripts, MCP​                |
