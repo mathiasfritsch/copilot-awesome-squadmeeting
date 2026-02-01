@@ -32,3 +32,5 @@ Benutzt die aktuelle Doku
 
 Hat auch Regeln für Contextgöße (zB Doku dotet auf context7 ist reisig)
 
+ausporbiert mit "use Context7-Expert agnt to build a component where the user can add a product. it should use signal forms"
+
