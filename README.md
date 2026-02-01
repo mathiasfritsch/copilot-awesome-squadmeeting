@@ -22,7 +22,7 @@ agents/adr-generator.agent.md
 
 - use ADR Generator agent to make a adr for the decission to use postgres or oracle . dont write something yet. just have a conversation with me were you ask question
 
-- nicht sichtbar dass der agent verwendet wurde (nach Nachfrage und laut Inhalt hat er das aber)
+- nicht am Ende sichtbar dass der agent verwendet wurde ( im detailierten temporären  Log und nach Nachfrage und laut Inhalt hat er das aber)
 
 - 
 
