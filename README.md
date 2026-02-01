@@ -36,3 +36,9 @@ ausporbiert mit "use Context7-Expert agnt to build a component where the user ca
 
 zB auch Refit
 
+skill
+
+skills/microsoft-docs/SKILL.md
+
+klingt gut, nicht ausprobiert
+
