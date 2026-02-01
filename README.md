@@ -36,6 +36,10 @@ ausporbiert mit "use Context7-Expert agnt to build a component where the user ca
 
 zB auch Refit
 
+agents/4.1-Beast.agent.md
+sollte man schon alleines des Namens wegen nehmen
+
+
 skill
 
 skills/microsoft-docs/SKILL.md
