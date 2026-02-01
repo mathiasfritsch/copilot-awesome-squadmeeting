@@ -28,4 +28,7 @@ agents/adr-generator.agent.md
 
 context7.agent.md
 
+Benutzt die aktuelle Doku
+
+Hat auch Regeln für Contextgöße (zB Doku dotet auf context7 ist reisig)
 
