@@ -49,5 +49,6 @@ klingt gut, nicht ausprobiert
 
 Fun Fact Context Size
 --------------
-
+ask
+how much of the avalable context window did you use?
 
