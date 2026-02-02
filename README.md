@@ -51,5 +51,6 @@ Fun Fact Context Size
 --------------
 ask
 how much of the avalable context window did you use?
+Es gibt eine Antwort aber die scheint falsch zu sein (1MB vs 128 , 200 kB)
 
 auch "Show chat debug window -> "
