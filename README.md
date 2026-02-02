@@ -52,3 +52,4 @@ Fun Fact Context Size
 ask
 how much of the avalable context window did you use?
 
+auch "Show chat debug window -> "
