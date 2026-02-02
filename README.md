@@ -47,3 +47,7 @@ skills/microsoft-docs/SKILL.md
 
 klingt gut, nicht ausprobiert
 
+Fun Fact Context Size
+--------------
+
+
